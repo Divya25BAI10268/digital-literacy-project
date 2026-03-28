@@ -1,0 +1,8 @@
+[  ] Use strong, unique passwords for each account and enable 2-factor authentication (2FA).
+[  ] Download apps only from trusted sources like Google Play Store or official websites.
+[  ] Log out from shared or public devices and avoid saving passwords on them.
+[  ] Never share your UPI PIN or OTP with anyone—even if they claim to be from the bank.
+[  ] Enable transaction alerts and regularly monitor your bank statements.
+[  ] Immediately report fraud at: https://cybercrime.gov.in
+[  ] Call the Cyber Crime Helpline: 1930 (for urgent financial fraud reporting)
+[  ] Avoid public Wi-Fi for sensitive tasks (banking, logins); use mobile data or a VPN instead.
