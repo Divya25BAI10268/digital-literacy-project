@@ -44,18 +44,32 @@
 ***LINKS USED:-***
 
 **Task 1:** canva.com
+
 **Task 2:** github.com, linkedin.com, kaggle.com
+
 **Task 3:** codechef.com
+
 **Task 4:** Gmail.com, drive.google.com
+
 **Task 5:** cybercrime.gov.in
 
 ***TOOLS AND PLATFORM USED:-***
 
 *1. Canva
+
 2. Kaggle
+
 3. LinkedIn
+
 4. GitHub
+
 5. Codechef
-6. Gmail, google dirve, notepad
-7. M.S. Word, notepad*
+
+6. Gmail
+
+7.google dirve
+
+8.notepad
+
+9. M.S. Word*
 
