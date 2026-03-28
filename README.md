@@ -55,21 +55,21 @@
 
 ***TOOLS AND PLATFORM USED:-***
 
-*1. Canva
+*1. Canva*
 
-2. Kaggle
+*2. Kaggle*
 
-3. LinkedIn
+*3. LinkedIn*
 
-4. GitHub
+*4. GitHub*
 
-5. Codechef
+*5. Codechef*
 
-6. Gmail
+*6. Gmail*
 
-7.google dirve
+*7. google dirve*
 
-8.notepad
+*8. notepad*
 
-9. M.S. Word*
+*9. M.S. Word*
 
